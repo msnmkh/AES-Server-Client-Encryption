@@ -1,0 +1,7 @@
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\obj\Debug\clientConsole.csprojAssemblyReference.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\obj\Debug\clientConsole.csproj.CoreCompileInputs.cache
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\bin\Debug\clientConsole.exe.config
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\bin\Debug\clientConsole.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\bin\Debug\clientConsole.pdb
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\obj\Debug\clientConsole.exe
+C:\Users\mohsen\Documents\Visual Studio 2017\Projects\symmetric\clientConsole\obj\Debug\clientConsole.pdb
